@@ -110,15 +110,17 @@ class BryannYabi:
 <!-- Stats -->
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Brith6&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=3fb950&text_color=8b949e&rank_icon=github&include_all_commits=true)
-&nbsp;
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Brith6&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&langs_count=6)
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Brith6&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=3fb950&text_color=8b949e&rank_icon=github&include_all_commits=true&cache_seconds=3600" alt="GitHub Stats" />
+  
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs?username=Brith6&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&langs_count=6&cache_seconds=3600" alt="Top Langs" />
 
 </div>
 
+<br>
+
 <div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=Brith6&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=3fb950&currStreakLabel=8b949e)
+  <img src="https://streak-stats.demolab.com/?user=Brith6&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=3fb950&currStreakLabel=8b949e&cache_seconds=3600" alt="GitHub Streak" />
 
 </div>
 
@@ -149,7 +151,7 @@ class BryannYabi:
 <!-- Activity -->
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Brith6&bg_color=0d1117&color=58a6ff&line=3fb950&point=58a6ff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Brith6&bg_color=0d1117&color=58a6ff&line=3fb950&point=58a6ff&area=true&hide_border=true&cache_seconds=3600" alt="Activity Graph" />
 
 </div>
 
