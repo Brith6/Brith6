@@ -10,12 +10,12 @@
 ╚═════╝ ╚═╝  ╚═╝   ╚═╝   ╚═╝  ╚═╝╚═╝  ╚═══╝╚═╝  ╚═══╝
 ```
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&pause=1200&color=58A6FF&center=true&width=560&lines=Software+Engineer+%40+Epitech+Benin;C%2B%2B+%7C+Python+%7C+TypeScript+%7C+DevOps;AI+%2F+Deep+Learning+%7C+Game+Engines+%7C+Backend;Building+robust+systems+%E2%80%94+low+level+to+cloud)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&pause=1200&color=58A6FF&center=true&width=600&lines=Backend+Developer+%7C+Applied+AI+%7C+C%2FC%2B%2B+Systems;Built+SmartCare+%7C+AI-powered+SaaS+platform;Django+%7C+FastAPI+%7C+RAG+%7C+low+level+to+cloud;Native+French+%7C+English+C1+%7C+Ottawa-Gatineau)](https://git.io/typing-svg)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-bryann--yabi-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/bryann-yabi)
 [![GitHub](https://img.shields.io/badge/GitHub-Brith6-181717?style=flat-square&logo=github)](https://github.com/Brith6)
-[![Mail](https://img.shields.io/badge/Email-bryann.yabi@epitech.eu-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:bryann.yabi@epitech.eu)
-![Location](https://img.shields.io/badge/Benin-Cotonou-3fb950?style=flat-square&logo=googlemaps&logoColor=white)
+[![Mail](https://img.shields.io/badge/Email-ithielyabi@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:ithielyabi@gmail.com)
+![Location](https://img.shields.io/badge/Based_in-Gatineau,_QC_(Canada)-3fb950?style=flat-square&logo=googlemaps&logoColor=white)
 
 </div>
 
@@ -26,17 +26,31 @@
 class BryannYabi:
     name       = "Bryann YABI"
     alias      = "Brith6"
-    role       = "Software Engineer — Epitech Benin (Bachelor cycle)"
-    location   = "Cotonou, Benin 🌍"
+    role       = "Backend Developer — AI-powered SaaS & low-level systems"
+    location   = "Gatineau, QC, Canada 🍁"
 
-    expertise  = ["Software Architecture", "AI & Deep Learning", "DevOps & CI/CD"]
+    expertise  = ["Backend Architecture", "Applied AI (RAG, LLMs)", "C/C++ Systems"]
     languages  = ["C/C++", "Python", "TypeScript", "Haskell", "Bash"]
-    frameworks = ["Django REST", "Laravel", "React", "Next.js"]
-    infra      = ["Docker", "Kubernetes", "Plesk", "OAuth2"]
-    interests  = ["Game engines", "Automation", "Hackathons", "Mangas & Animés"]
+    frameworks = ["Django REST", "FastAPI", "Laravel", "React", "Next.js"]
+    infra      = ["Docker", "PostgreSQL", "Redis", "Celery", "CI/CD"]
+    ai         = ["RAG / pgvector", "multi-LLM: Anthropic · OpenAI · Ollama"]
+    interests  = ["Applied AI", "Robotics", "Game engines", "Hackathons"]
 
-    currently  = "Designing robust systems — from low-level engines to cloud deployments"
+    currently  = "Building AI-powered backends, from architecture to deployment"
+    next       = "Heading toward applied AI & robotics"
 ```
+
+---
+
+## ◈ Flagship
+
+### ⭐ SmartCare — AI-Powered SaaS Contact-Center Platform &nbsp; `private · proprietary`
+> **Lead backend developer / technical lead** on a production multi-tenant SaaS platform (BestCash).
+> Built the full backend end-to-end: **Django / DRF**, a **RAG microservice** (FastAPI + pgvector,
+> multi-LLM — Anthropic / OpenAI / Ollama), an omnichannel pipeline (WhatsApp, Messenger, email, web),
+> real-time **WebSocket** messaging, **Mobile Money** billing, IAM & security hardening, and **~213 automated tests**.
+>
+> `Python` · `Django` · `FastAPI` · `pgvector` · `PostgreSQL` · `Redis` · `Celery` · `Docker`
 
 ---
 
@@ -46,13 +60,24 @@ class BryannYabi:
 <tr>
 <td width="50%">
 
-### 🤖 [GOMOKU — Neural Network AI](https://github.com/Brith6/Gomoku)
-> Competitive AI bot in C++ for the Gomoku board game.
-> **Minimax + Alpha-Beta Pruning** for strategic decision-making.
+### 🌍 [Kadence-Trip — Tourism Platform](https://github.com/Brith6/kadence-trip)
+> Immersive full-stack platform to discover Benin.
+> Modern, seamless UX for the African travel market.
 >
-> `C++` · `AI` · `Game Theory` · `Algorithms`
+> `Python` · `Full-stack` · `React`
 
 </td>
+<td width="50%">
+
+### 🧠 [Brith-chat — Local AI RAG Assistant](https://github.com/Brith6/Brith-chat)
+> Retrieval-augmented generation over your own documents.
+> Local, private LLM assistant.
+>
+> `Python` · `Django` · `RAG` · `LLM`
+
+</td>
+</tr>
+<tr>
 <td width="50%">
 
 ### ⚙️ [AREA — Automation Platform](https://github.com/Brith6/AREA)
@@ -63,8 +88,6 @@ class BryannYabi:
 > `Python` · `TypeScript` · `REST API` · `OAuth2`
 
 </td>
-</tr>
-<tr>
 <td width="50%">
 
 ### 🚀 [R-Type — Multiplayer Game Engine](https://github.com/Brith6/R-Type)
@@ -74,32 +97,24 @@ class BryannYabi:
 > `C++` · `Network` · `Game Engine` · `ECS`
 
 </td>
-<td width="50%">
-
-### 🌍 [Kadence-Trip — Tourism Platform](https://github.com/Brith6/kadence-trip)
-> Immersive tourism platform to discover Benin.
-> Modern, seamless UX for the African travel market.
->
-> `Python` · `Full-stack` · `Tourism tech`
-
-</td>
 </tr>
 <tr>
 <td width="50%">
 
-### 🛠️ [WHANOS — CI/CD Automation](https://github.com/Brith6/WHANOS)
-> Auto-deployment platform with smart language detection.
-> **Bash/Groovy** + **Kubernetes** orchestration + multi-arch **Docker**.
+### 🤖 [Neural-Network — Deep Learning from Scratch](https://github.com/Brith6/Neural-Network)
+> A neural-network library built from the ground up.
+> **Backpropagation**, training loop, no black-box frameworks.
 >
-> `DevOps` · `Bash` · `Docker` · `Kubernetes`
+> `C++` · `Python` · `Deep Learning`
 
 </td>
 <td width="50%">
 
-### 🧳 [Benin Travel — Tourism Guide](https://github.com/Brith6/Benin_Travel)
-> Travel guide and cultural heritage platform for Benin.
+### 🎯 [GOMOKU — Game AI](https://github.com/Brith6/Gomoku)
+> Competitive AI bot in C++ for the Gomoku board game.
+> **Minimax + Alpha-Beta Pruning** for strategic play.
 >
-> `JavaScript` · `Web` · `Cultural tech`
+> `C++` · `AI` · `Algorithms`
 
 </td>
 </tr>
@@ -136,12 +151,20 @@ class BryannYabi:
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Haskell](https://img.shields.io/badge/Haskell-5D4F85?style=flat-square&logo=haskell&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Celery](https://img.shields.io/badge/Celery-37814A?style=flat-square&logo=celery&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 ![OAuth2](https://img.shields.io/badge/OAuth2-EB5424?style=flat-square&logo=auth0&logoColor=white)
 
 </div>
@@ -160,10 +183,10 @@ class BryannYabi:
 ## ◈ Experience Snapshot
 
 ```
-[2025 — now ] Epitech Benin .............. GOMOKU AI · AREA · WHANOS · R-Type
-[2024 — 2025] Technodata Solutions ........ Full-stack Dev — Laravel ERP · WordPress
-[2024 — now ] Epitech Benin .............. Bachelor in Computer Engineering
-[2021 — 2023] Lycée Français M. Pagnol ... Baccalauréat Scientifique — BAC C
+[2026 Apr–Aug] BestCash — SmartCare ....... Lead Backend Dev · AI SaaS (Django · FastAPI · RAG)
+[2024 — 2025 ] Technodata Solutions ....... Full-stack Dev — Laravel ERP · WordPress
+[2024 — now  ] Epitech Benin .............. Bachelor in Computer Science (3-year, French degree)
+[2021 — 2023 ] Lycée Français M. Pagnol ... French Scientific Baccalaureate (high-school diploma)
 ```
 
 ---
@@ -172,6 +195,6 @@ class BryannYabi:
 
 ![Profile views](https://komarev.com/ghpvc/?username=Brith6&color=58a6ff&style=flat-square&label=profile+views)
 
-`// Français natif · English C1 · Always building`
+`// Français natif · English C1 · Ottawa-Gatineau · Always building`
 
 </div>
