@@ -15,6 +15,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-bryann--yabi-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/bryann-yabi)
 [![GitHub](https://img.shields.io/badge/GitHub-Brith6-181717?style=flat-square&logo=github)](https://github.com/Brith6)
 [![Mail](https://img.shields.io/badge/Email-ithielyabi@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:ithielyabi@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-bryannyabi.dev-E23744?style=flat-square&logo=vercel&logoColor=white)](https://bryannyabi.dev)
 ![Location](https://img.shields.io/badge/Based_in-Gatineau,_QC_(Canada)-3fb950?style=flat-square&logo=googlemaps&logoColor=white)
 
 </div>
